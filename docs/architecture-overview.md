@@ -1,7 +1,3 @@
----
-
-```markdown
-
 # NexOps Architecture Overview
 
 NexOps is designed using a **multi-layer, service-oriented architecture.**

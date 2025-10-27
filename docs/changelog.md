@@ -1,12 +1,6 @@
----
-
-```markdown
-
 # Changelog
 
 All updates and milestones for **NexOps**.
-
-```
 
 ---
 
