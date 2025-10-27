@@ -6,6 +6,7 @@ NexOps is designed using a **multi-layer, service-oriented architecture.**
 
 ## System Design
 
+```markdown
 +--------------------------+
 | NexOps.UI | <- Blazor Web App
 |--------------------------|
@@ -26,6 +27,7 @@ v
 +---------------+-----------+
 | PostgresSQL DB | <- Data Layer 
 +---------------+-----------+
+```
 ---
 
 ## Components 
