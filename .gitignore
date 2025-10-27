@@ -1,0 +1,11 @@
+# Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.db
+*.db-journal
+.vscode/
+.nuget
+*.log
