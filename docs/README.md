@@ -40,7 +40,7 @@ It provides tools for **employee mangement, attendance tracking, analytics, and 
 - [Changelog](changelog.md)
 
 ---
-*Maintained by Ron Santos . Last updated: {{DATE}}
+*Maintained by Ron Santos . Last updated: October 27, 2025
 
 
 
